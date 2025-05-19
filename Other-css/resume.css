@@ -220,13 +220,13 @@ p {
 }
 .office-pragraph{
     font-size: 16px;
-  font-weight: 500;
+  font-weight: 400;
   font-family: "Poppins", sans-serif;
   color: rgba(255, 255, 255, 0.856);
   line-height:25px;
 }
 .office-heading{
-    font-size: 25px;
+    font-size: 30px;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   color:#ffffff;
